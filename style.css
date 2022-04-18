@@ -1,0 +1,20 @@
+.wow {
+  width: 100px;
+}
+
+.toc {
+  
+  border:solid 1px black;
+  width:auto;
+  display:table;
+  padding:5px;;
+}
+
+.table {
+  
+  border:solid black ;
+  border-collapse:collapse;
+  align:center;
+  background-color:grey;
+  margin:auto;
+}
